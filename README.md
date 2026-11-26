@@ -120,12 +120,6 @@ Hotel-Review-Sentiment-Analysis/
 └── ids_final_project_group_10.pdf
 ```
 
-## 👥 Team Members
-
-- Dipto Chakraborty
-- MD. Ashfaq Ayub
-- Tushar Kanty Das
-- Fardin Alif
 
 ## 📚 References
 
